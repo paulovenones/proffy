@@ -2,7 +2,7 @@
   <img src="https://github.com/paulovenones/proffy/blob/master/banner.png" alt="Proffy"/>
 </h1>
 
-Link para acessar a [Demo](https://proffy-webapp.vercel.app/)
+Link to access [Demo](https://proffy-webapp.vercel.app/)
 
 ## 📢 About
 
