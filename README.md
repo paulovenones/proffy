@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # proffy
-=======
+
 <h1 align="center">
   <img src="https://github.com/paulovenones/proffy/blob/master/banner.png" alt="Proffy"/>
 </h1>
