@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from 'react';
 import { View, ScrollView, Text, TextInput } from 'react-native';
 import { BorderlessButton, RectButton } from 'react-native-gesture-handler';
@@ -130,6 +131,20 @@ function TeacherList() {
       </ScrollView>
     </View>
 
+=======
+import React from 'react';
+import { View } from 'react-native';
+
+import PageHeader from '../../components/PageHeader';
+
+import styles from './styles';
+
+function TeacherList() {
+  return(
+    <View style={styles.container}>
+      <PageHeader title="Proffys disponíveis"/>
+    </View>
+>>>>>>> 8fdc8f533c63e71c65c50c680d998ec2e62b32a5
   );
 }
 
