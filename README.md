@@ -92,4 +92,3 @@ $ yarn knex:migrate
 # Run the local server
 $ yarn start
 ```
->>>>>>> 8fdc8f533c63e71c65c50c680d998ec2e62b32a5
